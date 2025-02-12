@@ -18,7 +18,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/ITI_DB.git
+git clone https://github.com/abdo7amdy/ITI_DB.git
 Import the SQL scripts into MySQL, SQL Server, or PostgreSQL
 Run queries & explore database functionalities
 🔗 Stay tuned for more updates! 🚀
